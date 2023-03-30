@@ -1,0 +1,24 @@
+input[type="search"] {
+    border: none;
+} 
+
+.logo-text {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+header .nav-link {
+    color: gray;
+}
+
+header .nav-link:hover, .nav-link:focus {
+    color: #A8C256;
+}
+
+
+.plus-badge {
+    font-size: 10px;
+    padding: 5px 10px;
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}

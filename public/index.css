@@ -1,0 +1,50 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px;
+    color: blueviolet;
+}
+
+
+/* top banner start */
+.parallax {
+    height: 500px;
+    padding: 120px 0;
+    background-image: url("https://images.unsplash.com/photo-1602434177202-bad342c2a5d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+    background-size: cover;
+    background-attachment: fixed;
+    color: black;
+}
+
+.parallax-block {
+    margin-bottom: 20px;
+}
+
+.parallax-block h2, h3 {
+    text-align: center;
+    font-size: 64px;
+}
+/* top banner end */
+
+.card-img-top {
+    width: 200px; 
+    height: 200px;
+    object-fit: cover;
+}
+
+main .card-link {
+    color: black;
+    text-decoration: none;
+} 
+
+main .card-link:hover, .card-link:focus {
+    color: #A8C256;
+}
+
