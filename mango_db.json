@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "6421d1d27cd1509a437baf82"
+  },
+  "type": "shoes",
+  "title": "Nike sneek",
+  "image": "https://images.unsplash.com/photo-1679875806089-1d1d9c7c2c18?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+  "price": 12000,
+  "description": "Nike Air Force is a classic and iconic sneaker that has been around since 1982. It is a low-top sneaker that features a leather upper with perforations for breathability, a padded collar and tongue for comfort, and a rubber outsole for durability and traction. The most distinctive feature of the Nike Air Force is the Air-Sole unit in the heel, which provides cushioning and shock absorption. The design of the sneaker has evolved over time, with new colorways and materials being introduced to keep up with changing fashion trends. The Nike Air Force has become a staple in streetwear culture, worn by everyone from athletes to musicians to fashion influencers. It is a versatile sneaker that can be dressed up or down, making it a must-have in any sneaker collection.",
+  "bonus": 12
+},{
+  "_id": {
+    "$oid": "6421d1d27cd1509a437baf83"
+  },
+  "type": "thing",
+  "title": "Boxed water",
+  "image": "https://images.unsplash.com/photo-1587502536575-6dfba0a6e017?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+  "price": 2000,
+  "description": "Boxed water is a type of packaging for drinking water that comes in a rectangular-shaped carton made from sustainable materials such as paperboard and plant-based plastic. The box is lightweight, easy to carry, and has a convenient spout for pouring. Boxed water is an eco-friendly alternative to plastic water bottles, as it has a smaller carbon footprint and is 100% recyclable. The packaging is also BPA-free and free from harmful chemicals. Boxed water is becoming increasingly popular among environmentally conscious consumers who want to reduce their impact on the environment while still enjoying the convenience of bottled water.",
+  "bonus": 12
+},{
+  "_id": {
+    "$oid": "6422aefcb6fa8448c894fda4"
+  },
+  "type": "shoes",
+  "title": "Nike Air Force",
+  "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+  "price": 11000,
+  "description": "Nike Air Force is a classic and iconic sneaker that has been around since 1982. It is a low-top sneaker that features a leather upper with perforations for breathability, a padded collar and tongue for comfort, and a rubber outsole for durability and traction. The most distinctive feature of the Nike Air Force is the Air-Sole unit in the heel, which provides cushioning and shock absorption. The design of the sneaker has evolved over time, with new colorways and materials being introduced to keep up with changing fashion trends. The Nike Air Force has become a staple in streetwear culture, worn by everyone from athletes to musicians to fashion influencers. It is a versatile sneaker that can be dressed up or down, making it a must-have in any sneaker collection.",
+  "bonus": 12
+},{
+  "_id": {
+    "$oid": "6422b25fb6fa8448c894fda7"
+  },
+  "type": "clothes",
+  "title": "hoodie tie-die",
+  "image": "https://plus.unsplash.com/premium_photo-1673866154288-eb720acfd38a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+  "price": 9000,
+  "description": "A tie-dye hoodie is a vibrant and colorful piece of clothing that features a unique pattern created through the tie-dye process. This process involves twisting, folding, and tying the fabric before applying dye, resulting in a one-of-a-kind design. The hoodie itself is typically made from soft and comfortable materials like cotton or fleece, making it perfect for casual wear or lounging at home. The tie-dye pattern adds a fun and playful element to the hoodie, making it a popular choice for those who want to add some color and personality to their wardrobe. The hoodie may feature a drawstring hood, a kangaroo pocket, and ribbed cuffs and hem for a snug fit. Whether worn with jeans or leggings, a tie-dye hoodie is a statement piece that is sure to turn heads and brighten up any outfit.",
+  "bonus": 9
+},{
+  "_id": {
+    "$oid": "6422b25fb6fa8448c894fda8"
+  },
+  "type": "thing",
+  "title": "iphone case",
+  "image": "https://images.unsplash.com/photo-1623393945964-8f5d573f9358?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+  "price": 9000,
+  "description": "A phone case is a protective cover designed to keep your phone safe from scratches, drops, and other damage. It is typically made from materials like silicone, plastic, or leather, and comes in a variety of colors and designs to suit your personal style. A phone case may feature cutouts for the camera, ports, and buttons, allowing you to use your phone without having to remove the case. Some cases also offer additional features like card holders, kickstands, or waterproofing. Phone cases are available for a wide range of phone models, ensuring a perfect fit for your device. They are an essential accessory for anyone who wants to keep their phone looking new and functioning properly. With so many styles to choose from, you can find a phone case that not only protects your phone but also reflects your personality.",
+  "bonus": 8
+},{
+  "_id": {
+    "$oid": "64247a15dde708743a755790"
+  },
+  "type": "clothes",
+  "title": "Campion white hoodie",
+  "image": "https://images.unsplash.com/photo-1585431287675-01236cf46802?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+  "price": 15454,
+  "description": "A hoodie is a type of sweatshirt that has a hood attached to it. It is typically made of a soft, comfortable material such as cotton or fleece, and is designed to keep the wearer warm and cozy. \r\n\r\nHoodies come in a variety of styles, including pullover and zip-up. They often feature a front pocket for storing small items or keeping hands warm. The hood can be adjusted with drawstrings to fit snugly around the head.\r\n\r\nOriginally worn by athletes and laborers for warmth and comfort, hoodies have since become a popular fashion item. They are available in a wide range of colors and designs, from simple solid colors to bold patterns and graphic prints.\r\n\r\nHoodies are often associated with casual wear, but can also be dressed up with the right accessories. They are a versatile piece of clothing that can be worn in many different settings, from lounging at home to running errands or going out with friends.",
+  "bonus": 12,
+  "isMine": true,
+  "__v": 0
+}]
